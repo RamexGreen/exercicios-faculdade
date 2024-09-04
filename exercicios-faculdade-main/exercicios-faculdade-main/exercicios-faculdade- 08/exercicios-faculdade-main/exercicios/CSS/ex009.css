@@ -1,0 +1,14 @@
+p{
+    color: blue; /* Atera a cor */
+    font-size: x-large;  /*tamanho da fonte */
+    background-color: aquamarine; /* cor de fundo*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Estilo da fonde */
+    font-weight: 900; /* Altera o peso da fonte "negrito" */
+}
+#sobrenome {
+    color: blue;
+}
+
+.texto {
+    color: #108b2a; background-color: black;
+}
